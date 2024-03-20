@@ -1,2 +1,2 @@
 # drasta_digital
-Tule namakajće wuslědki projekta "drasta digital".
+Tule namakaće wuslědki projekta "drasta digital".
