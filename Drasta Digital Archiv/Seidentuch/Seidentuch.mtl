@@ -1,0 +1,19 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Halstuch_FRONT_312502
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.359600 0.359600 0.359600
+Ns 44.064312
+illum 2
+map_Ka Seidentuch_diffuse_1001.png
+map_Kd Seidentuch_diffuse_1001.png
+map_bump Seidentuch_normal_1001.png
+newmtl fransen_FRONT_316076
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.415800 0.415800 0.415800
+Ns 57.526478
+illum 2
+map_Ka Seidentuch_diffuse_1001.png
+map_Kd Seidentuch_diffuse_1001.png
+map_bump Seidentuch_normal_1001.png

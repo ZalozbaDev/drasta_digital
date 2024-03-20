@@ -1,0 +1,49 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Linen_Woven_Copy_1_FRONT_1589706
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 28.763239
+illum 2
+map_Ka Wollrock_Mieder_gruen_diffuse_1002.png
+map_Kd Wollrock_Mieder_gruen_diffuse_1002.png
+map_bump Wollrock_Mieder_gruen_normal_1002.png
+newmtl Default_Fabric_FRONT_1589674
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wollrock_Mieder_gruen_diffuse_1002.png
+map_Kd Wollrock_Mieder_gruen_diffuse_1002.png
+map_bump Wollrock_Mieder_gruen_normal_1002.png
+newmtl Sherpa_Shearling_Curly_Fleece_Poly_360gsm_Copy_1_FRONT_1589684
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka Wollrock_Mieder_gruen_diffuse_1002.png
+map_Kd Wollrock_Mieder_gruen_diffuse_1002.png
+map_bump Wollrock_Mieder_gruen_normal_1002.png
+newmtl Sherpa_Shearling_Curly_Fleece_Poly_360gsm_Copy_1_BACK_1589684
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+newmtl Wool_FRONT_1589695
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka Wollrock_Mieder_gruen_diffuse_1002.png
+map_Kd Wollrock_Mieder_gruen_diffuse_1002.png
+map_bump Wollrock_Mieder_gruen_normal_1002.png
+newmtl Material96062
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2

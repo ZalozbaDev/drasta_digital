@@ -1,0 +1,28 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl V1_Woven_Wool_Melton_FRONT_1729984
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka Wollrock_rot_diffuse_1001.png
+map_Kd Wollrock_rot_diffuse_1001.png
+map_bump Wollrock_rot_normal_1001.png
+newmtl Default_Fabric_FRONT_1729970
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.255000 0.255000 0.255000
+Ns 28.763239
+illum 2
+map_Ka Wollrock_rot_diffuse_1001.png
+map_Kd Wollrock_rot_diffuse_1001.png
+map_bump Wollrock_rot_normal_1001.png
+newmtl softer_wool_FRONT_1729995
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka Wollrock_rot_diffuse_1001.png
+map_Kd Wollrock_rot_diffuse_1001.png
+map_bump Wollrock_rot_normal_1001.png

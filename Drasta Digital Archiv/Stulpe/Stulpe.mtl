@@ -1,0 +1,16 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Stulpen_Kirsten_FRONT_2488
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Stulpe_diffuse_1001.png
+map_Kd Stulpe_diffuse_1001.png
+map_bump Stulpe_normal_1001.png
+newmtl Stulpen_Kirsten_BACK_2488
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2

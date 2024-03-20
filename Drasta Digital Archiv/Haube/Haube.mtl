@@ -1,0 +1,73 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Haube_Stoff_FRONT_1843018
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl Haube_koerper_FRONT_1843049
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl Haube_koerper_rueck_FRONT_1843070
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl standart_FRONT_1843022
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl Haube_band_FRONT_1843026
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl unsichtbar_FRONT_1843078
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl Haube_Band_Ende_FRONT_1843038
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png
+newmtl Haube_Band_Ende_mirror_FRONT_1843061
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Haube_diffuse_1001.png
+map_Kd Haube_diffuse_1001.png
+map_bump Haube_normal_1001.png

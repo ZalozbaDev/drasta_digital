@@ -1,0 +1,388 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Linen_Woven_FRONT_2488
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Wattrock_Mieder_FRONT_2552
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Linen_Woven_Wattrock_FRONT_2586
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Linen_Woven_Hartband_Wattrock_FRONT_2569
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Linen_Woven_Wattrock_seididünn_FRONT_3107076
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119751
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119241
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119496
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
+newmtl Material2119496
+Ka 0.046385 0.045376 0.046385
+Kd 0.147851 0.144637 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka Wattrock_diffuse_1001.png
+map_Kd Wattrock_diffuse_1001.png
+map_bump Wattrock_normal_1001.png
